@@ -1,5 +1,5 @@
 
-# Privacy policy
+# Privacy policy for Mail Concierge
 The app is currently in testing phase. 
 
 The app collects the following information: phone number, first and last name, date of birth.
