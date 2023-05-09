@@ -1,1 +1,9 @@
 
+# Privacy policy
+The app is currently in testing phase. 
+
+The app collects the following information: phone number, first and last name, date of birth.
+
+All data is uploaded to firestore. 
+
+Testers can contact the developer directly to have all their data removed.
