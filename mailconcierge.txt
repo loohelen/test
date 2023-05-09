@@ -2,7 +2,7 @@
 # Privacy policy for Mail Concierge
 The app is currently in testing phase. 
 
-The app collects and saves the following information: phone number, first and last name, date of birth.
+The app collects and saves the following information: phone number, first and last name, date of birth. The users can also upload pictures.
 
 The app uses the user's location for displaying maps. It does not save the user's location.
 
